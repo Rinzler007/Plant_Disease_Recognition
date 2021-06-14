@@ -61,6 +61,8 @@
 
   03. (Optional) Create a virtual environment. Refer this tutorial to learn how to create a virtual environment:
     https://www.youtube.com/watch?v=APOPm01BVrk
+      If you're a MacOS user, you may refer this website:
+    https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
     **If you create a virtual environment, make sure it is activated and you execute all commands from within the virtual environment. Skip this step if you are unsure about how it works.**
 
   04. Install required packages:
