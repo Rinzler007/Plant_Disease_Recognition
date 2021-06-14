@@ -54,14 +54,14 @@
 
   01. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
       
-      `git clone https://github.com/saroz014/Plant-Diseases-Recognition.git`
+      `git clone https://github.com/Rinzler007/Plant_Disease_Recognition.git`
 
   02. Download model from the following link and paste it in the `\plant_diseases\plant_app` folder: 
     https://drive.google.com/file/d/1FZXraDDPqbRTX-QeiQclfojgtoLddxQ_/view
 
-  03. (Optional) Create a virtual enviourment. Refer this tutorial to learn how to create a virtual enviourment:
+  03. (Optional) Create a virtual environment. Refer this tutorial to learn how to create a virtual environment:
     https://www.youtube.com/watch?v=APOPm01BVrk
-    **If you create a virtual enviourment, make sure it is activated and you execute all commands from within the virtual enviournment. Skip this step if you are unsure about how it works.**
+    **If you create a virtual environment, make sure it is activated and you execute all commands from within the virtual environment. Skip this step if you are unsure about how it works.**
 
   04. Install required packages:
       
